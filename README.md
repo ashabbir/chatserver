@@ -14,3 +14,6 @@ Run ChatWindow.class
 use Port, machine and username as params in command line
 enjoy!!!!
 
+
+Git pages 
+http://www.oracle.com/technetwork/articles/java/raspberrypi-1704896.html#Java
